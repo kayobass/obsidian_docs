@@ -54,11 +54,11 @@ Aprender lógica de programação e Python de verdade.
   
 ## Python Básico  
   
-- [ ] Variáveis  
-- [ ] Tipos de dados  
-- [ ] Condicionais (`if / else`)  
-- [ ] Loops (`for / while`)  
-- [ ] Funções  
+- [x] Variáveis  
+- [x] Tipos de dados  
+- [x] Condicionais (`if / else`)  
+- [x] Loops (`for / while`)  
+- [x] Funções  
 - [ ] Strings  
 - [ ] Listas  
 - [ ] Dicionários  
@@ -437,50 +437,24 @@ Conseguir:
 
 ---
 
-# 📂 Projetos
+# 📂 Projetos  
+  
+## Projeto 1  
+  
+- [ ] Dashboard Power BI  
+  
+## Projeto 2  
+  
+- [ ] Pipeline ETL simples  
+  
+## Projeto 3  
+  
+- [ ] Análise de dados com Python  
+  
+## Projeto 4  
+  
+- [ ] Projeto usando IA/API
 
-## Projeto 1
-
-- Dashboard Power BI
-    
-
-## Projeto 2
-
--  Pipeline ETL simples
-    
-
-## Projeto 3
-
--  Análise de dados com Python
-    
-
-## Projeto 4
-
--  Projeto usando IA/API
-    
-
----
-
-# 🎯 Perfil profissional esperado
-
-O mercado de estágio está buscando principalmente:
-
-```text
-Pessoas que saibam trabalhar com dados usando Python, SQL e BI.
-```
-
-Não é necessário:
-
-- Deep Learning
-    
-- Redes neurais avançadas
-    
-- TensorFlow/PyTorch
-    
-- Matemática pesada
-    
-
-para conseguir a primeira vaga.
 
 ---
 
