@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRILHA ESTÁGIO.md",
+                "file": "trilha_estagio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TRILHA ESTÁGIO"
+              "title": "trilha_estagio"
             }
           }
         ]
@@ -197,6 +197,6 @@
   "active": "e1bf87e822fcc155",
   "lastOpenFiles": [
     "TESTE.md",
-    "TRILHA ESTÁGIO.md"
+    "trilha_estagio.md"
   ]
 }

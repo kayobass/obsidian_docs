@@ -19,25 +19,25 @@ Baseada em vagas reais de estágio focadas em:
 
 Ao final da trilha você deverá ter:
 
-- Python intermediário
+-  Python intermediário
     
-- SQL intermediário
+-  SQL intermediário
     
-- Excel avançado básico/intermediário
+-  Excel avançado básico/intermediário
     
-- Power BI
+-  Power BI
     
-- Pandas
+-  Pandas
     
-- ETL básico
+-  ETL básico
     
-- Git/GitHub
+-  Git/GitHub
     
-- Noções de Cloud
+-  Noções de Cloud
     
-- Pequeno portfólio com projetos
+-  Pequeno portfólio com projetos
     
-- Currículo e LinkedIn prontos
+-  Currículo e LinkedIn prontos
     
 
 ---
@@ -54,38 +54,38 @@ Aprender lógica de programação e Python de verdade.
 
 ## Python Básico
 
-- Variáveis
+-  Variáveis
     
-- Tipos de dados
+-  Tipos de dados
     
-- Condicionais (`if / else`)
+-  Condicionais (`if / else`)
     
-- Loops (`for / while`)
+-  Loops (`for / while`)
     
-- Funções
+-  Funções
     
-- Strings
+-  Strings
     
-- Listas
+-  Listas
     
-- Dicionários
+-  Dicionários
     
-- Tuplas
+-  Tuplas
     
 
 ---
 
 ## Python Intermediário
 
-- Manipulação de arquivos
+-  Manipulação de arquivos
     
-- Tratamento de erros
+-  Tratamento de erros
     
-- Recursão básica
+-  Recursão básica
     
-- Programação Orientada a Objetos (POO)
+-  Programação Orientada a Objetos (POO)
     
-- Módulos
+-  Módulos
     
 
 ---
@@ -94,30 +94,30 @@ Aprender lógica de programação e Python de verdade.
 
 Manipulação de dados usando:
 
-- listas
+-  listas
     
-- dicionários
+-  dicionários
     
-- filtros
+-  filtros
     
-- ordenação
+-  ordenação
     
-- leitura de CSV
+-  leitura de CSV
     
 
 ---
 
 # 🧪 Projetos dessa fase
 
-- Calculadora
+-  Calculadora
     
-- Agenda
+-  Agenda
     
-- Sistema de notas
+-  Sistema de notas
     
-- Leitor de CSV
+-  Leitor de CSV
     
-- Organizador de arquivos
+-  Organizador de arquivos
     
 
 ---
@@ -144,6 +144,21 @@ SUM
 AVG
 ```
 
+-  SELECT
+    
+-  WHERE
+    
+-  ORDER BY
+    
+-  GROUP BY
+    
+-  COUNT
+    
+-  SUM
+    
+-  AVG
+    
+
 ## SQL Intermediário
 
 ```sql
@@ -154,28 +169,39 @@ HAVING
 CTE
 ```
 
+-  JOIN
+    
+-  LEFT JOIN
+    
+-  INNER JOIN
+    
+-  HAVING
+    
+-  CTE
+    
+
 ---
 
 # 🧠 Modelagem Relacional
 
-- tabelas
+-  tabelas
     
-- chave primária
+-  chave primária
     
-- chave estrangeira
+-  chave estrangeira
     
-- relacionamentos
+-  relacionamentos
     
 
 ---
 
 # 🧪 Projetos
 
-- Banco de alunos
+-  Banco de alunos
     
-- Sistema de vendas
+-  Sistema de vendas
     
-- Relatórios de pedidos
+-  Relatórios de pedidos
     
 
 ---
@@ -192,15 +218,15 @@ Aprender análise visual e dashboards.
 
 ## Aprender:
 
-- filtros
+-  filtros
     
-- PROCV / PROCX
+-  PROCV / PROCX
     
-- SOMASE
+-  SOMASE
     
-- gráficos
+-  gráficos
     
-- tabelas dinâmicas
+-  tabelas dinâmicas
     
 
 ---
@@ -209,17 +235,17 @@ Aprender análise visual e dashboards.
 
 ## Aprender:
 
-- importar dados
+-  importar dados
     
-- limpar dados
+-  limpar dados
     
-- criar dashboards
+-  criar dashboards
     
-- relacionamentos
+-  relacionamentos
     
-- medidas simples
+-  medidas simples
     
-- visualizações
+-  visualizações
     
 
 ---
@@ -228,13 +254,13 @@ Aprender análise visual e dashboards.
 
 ## Dashboard de vendas
 
-- gráficos
+-  gráficos
     
-- indicadores
+-  indicadores
     
-- filtros
+-  filtros
     
-- relatórios
+-  relatórios
     
 
 ---
@@ -251,42 +277,42 @@ Usar Python para análise e manipulação de dados.
 
 ## Obrigatórias
 
-- Pandas
+-  Pandas
     
-- Matplotlib
+-  Matplotlib
     
 
 ## Depois
 
-- NumPy
+-  NumPy
     
 
 ---
 
 # 📚 Aprender no Pandas
 
-- ler CSV
+-  ler CSV
     
-- filtrar dados
+-  filtrar dados
     
-- agrupar
+-  agrupar
     
-- calcular médias
+-  calcular médias
     
-- limpeza de dados
+-  limpeza de dados
     
 
 ---
 
 # 📚 Aprender no Matplotlib
 
-- gráficos simples
+-  gráficos simples
     
-- barras
+-  barras
     
-- linhas
+-  linhas
     
-- pizza
+-  pizza
     
 
 ---
@@ -295,15 +321,18 @@ Usar Python para análise e manipulação de dados.
 
 ## Projeto 1
 
-Análise de vendas
+-  Análise de vendas
+    
 
 ## Projeto 2
 
-Análise de fraudes simples
+-  Análise de fraudes simples
+    
 
 ## Projeto 3
 
-Análise de engajamento
+-  Análise de engajamento
+    
 
 ---
 
@@ -323,19 +352,28 @@ ETL:
 Extrair → Transformar → Carregar
 ```
 
+-  Entender ETL
+    
+-  Extração de dados
+    
+-  Transformação de dados
+    
+-  Carga de dados
+    
+
 ---
 
 # 📚 Aprender
 
-- limpeza de dados
+-  limpeza de dados
     
-- automação
+-  automação
     
-- leitura de arquivos
+-  leitura de arquivos
     
-- integração entre sistemas
+-  integração entre sistemas
     
-- PostgreSQL básico
+-  PostgreSQL básico
     
 
 ---
@@ -350,6 +388,9 @@ Fluxo:
 CSV → Python → limpeza → banco de dados → relatório
 ```
 
+-  Pipeline automatizado
+    
+
 ---
 
 # ☁️ FASE 6 — Cloud + Ferramentas Modernas (básico)
@@ -362,24 +403,24 @@ Ter noção das ferramentas modernas do mercado.
 
 # 📚 Aprender superficialmente
 
-- AWS
+-  AWS
     
-- Google Cloud
+-  Google Cloud
     
-- Azure
+-  Azure
     
-- Data Lake
+-  Data Lake
     
-- Data Warehouse
+-  Data Warehouse
     
 
 ---
 
 # 📚 Conhecer
 
-- BigQuery
+-  BigQuery
     
-- Cloud Storage
+-  Cloud Storage
     
 
 ---
@@ -393,6 +434,15 @@ mkdir
 rm
 ```
 
+-  cd
+    
+-  ls
+    
+-  mkdir
+    
+-  rm
+    
+
 ---
 
 # 📚 Git/GitHub
@@ -403,6 +453,15 @@ git commit
 git push
 git pull
 ```
+
+-  git add
+    
+-  git commit
+    
+-  git push
+    
+-  git pull
+    
 
 ---
 
@@ -416,13 +475,13 @@ Adicionar IA aplicada ao portfólio.
 
 # 📚 Aprender
 
-- APIs de IA
+-  APIs de IA
     
-- OpenAI/OpenRouter
+-  OpenAI/OpenRouter
     
-- Prompt Engineering básico
+-  Prompt Engineering básico
     
-- Automações com IA
+-  Automações com IA
     
 
 ---
@@ -431,11 +490,11 @@ Adicionar IA aplicada ao portfólio.
 
 ## Resumidor de texto com IA
 
-- frontend simples
+-  frontend simples
     
-- API
+-  API
     
-- IA generativa
+-  IA generativa
     
 
 ---
@@ -446,24 +505,24 @@ Adicionar IA aplicada ao portfólio.
 
 Conseguir:
 
-- ler documentação
+-  ler documentação
     
-- entender erros
+-  entender erros
     
-- pesquisar soluções
+-  pesquisar soluções
     
 
 ---
 
 # 📚 Fazer diariamente
 
-- ler README
+-  ler README
     
-- assistir vídeos simples
+-  assistir vídeos simples
     
-- aprender vocabulário técnico
+-  aprender vocabulário técnico
     
-- usar ferramentas em inglês
+-  usar ferramentas em inglês
     
 
 ---
@@ -472,19 +531,19 @@ Conseguir:
 
 ## Tecnologias
 
-- Python
+-  Python
     
-- SQL
+-  SQL
     
-- Excel
+-  Excel
     
-- Power BI
+-  Power BI
     
-- Pandas
+-  Pandas
     
-- Git
+-  Git
     
-- PostgreSQL
+-  PostgreSQL
     
 
 ---
@@ -493,19 +552,23 @@ Conseguir:
 
 ## Projeto 1
 
-Dashboard Power BI
+-  Dashboard Power BI
+    
 
 ## Projeto 2
 
-Pipeline ETL simples
+-  Pipeline ETL simples
+    
 
 ## Projeto 3
 
-Análise de dados com Python
+-  Análise de dados com Python
+    
 
 ## Projeto 4
 
-Projeto usando IA/API
+-  Projeto usando IA/API
+    
 
 ---
 
