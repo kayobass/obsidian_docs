@@ -59,7 +59,7 @@ Aprender lógica de programação e Python de verdade.
 - [x] Condicionais (`if / else`)  
 - [x] Loops (`for / while`)  
 - [x] Funções  
-- [ ] Strings  
+- [x] Strings  
 - [ ] Listas  
 - [ ] Dicionários  
 - [ ] Tuplas  
