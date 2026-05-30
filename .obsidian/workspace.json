@@ -164,16 +164,27 @@
               "icon": "lucide-list",
               "title": "Sumário de TRILHA ESTÁGIO"
             }
+          },
+          {
+            "id": "1edc7a03453b6dae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -185,6 +196,7 @@
   },
   "active": "e1bf87e822fcc155",
   "lastOpenFiles": [
+    "TESTE.md",
     "TRILHA ESTÁGIO.md"
   ]
 }
