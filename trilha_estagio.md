@@ -69,7 +69,7 @@ Aprender lógica de programação e Python de verdade.
 ## Python Intermediário  
   
 - [ ] Manipulação de arquivos  
-- [ ] Tratamento de erros  
+- [x] Tratamento de erros  
 - [ ] Recursão básica  
 - [ ] Programação Orientada a Objetos (POO)  
 - [ ] Módulos  
