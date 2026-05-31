@@ -60,7 +60,7 @@ Aprender lógica de programação e Python de verdade.
 - [x] Loops (`for / while`)  
 - [x] Funções  
 - [x] Strings  
-- [ ] Listas  
+- [x] Listas  
 - [ ] Dicionários  
 - [ ] Tuplas  
   
