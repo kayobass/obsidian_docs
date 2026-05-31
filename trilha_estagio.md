@@ -61,7 +61,7 @@ Aprender lógica de programação e Python de verdade.
 - [x] Funções  
 - [x] Strings  
 - [x] Listas  
-- [ ] Dicionários  
+- [x] Dicionários  
 - [x] Tuplas  
   
 ---  
@@ -80,8 +80,8 @@ Aprender lógica de programação e Python de verdade.
   
 Manipulação de dados usando:  
   
-- [ ] Listas  
-- [ ] Dicionários  
+- [x] Listas  
+- [x] Dicionários  
 - [ ] Filtros  
 - [ ] Ordenação  
 - [ ] Leitura de CSV  
