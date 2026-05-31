@@ -62,7 +62,7 @@ Aprender lógica de programação e Python de verdade.
 - [x] Strings  
 - [x] Listas  
 - [ ] Dicionários  
-- [ ] Tuplas  
+- [x] Tuplas  
   
 ---  
   
