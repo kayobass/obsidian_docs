@@ -70,7 +70,7 @@ Aprender lógica de programação e Python de verdade.
   
 - [ ] Manipulação de arquivos  
 - [x] Tratamento de erros  
-- [ ] Recursão básica  
+- [x] Recursão básica  
 - [ ] Programação Orientada a Objetos (POO)  
 - [ ] Módulos  
   
