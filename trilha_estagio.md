@@ -96,6 +96,7 @@ Manipulação de dados usando:
 - [ ] Sistema de notas  
 - [ ] Leitor de CSV  
 - [ ] Organizador de arquivos  
+- [ ] Fazer JOGO de acertar paises com dica
   
 ---  
   
