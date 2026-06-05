@@ -109,7 +109,7 @@ Dominar consultas e manipulação de bancos de dados.
 ---  
   
 # 📚 Conteúdos  
-  
+
 ## SQL Básico  
   
 ```sql  
@@ -150,7 +150,7 @@ CTE
   
 # 🧠 Modelagem Relacional  
   
-- [ ] tabelas  
+- [x] tabelas  
 - [ ] chave primária  
 - [ ] chave estrangeira  
 - [ ] relacionamentos  
