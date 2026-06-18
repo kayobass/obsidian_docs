@@ -68,7 +68,7 @@ Aprender lógica de programação e Python de verdade.
   
 ## Python Intermediário  
   
-- [ ] Manipulação de arquivos  
+- [x] Manipulação de arquivos  
 - [x] Tratamento de erros  
 - [x] Recursão básica  
 - [ ] Programação Orientada a Objetos (POO)  
@@ -82,7 +82,7 @@ Manipulação de dados usando:
   
 - [x] Listas  
 - [x] Dicionários  
-- [ ] Filtros  
+- [x] Filtros  
 - [ ] Ordenação  
 - [ ] Leitura de CSV  
   
@@ -91,12 +91,11 @@ Manipulação de dados usando:
 
 # 🧪 Projetos dessa fase  
   
-- [ ] Calculadora  
-- [ ] Agenda  
+- [x] Calculadora  
+- [ ] Agenda 
 - [ ] Sistema de notas  
-- [ ] Leitor de CSV  
-- [ ] Organizador de arquivos  
-- [x] Fazer JOGO de acertar paises com dica
+- [ ] Leitor de CSV 
+- [x] Jogo de acertar paises com dicas
   
 ---  
   
