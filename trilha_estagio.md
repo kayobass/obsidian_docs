@@ -345,8 +345,8 @@ mkdir
 rm  
 ```  
   
-- [ ] cd  
-- [ ] ls  
+- [x] cd  
+- [x] ls  
 - [ ] mkdir  
 - [ ] rm  
   
@@ -361,8 +361,8 @@ git push
 git pull  
 ```  
   
-- [ ] git add  
-- [ ] git commit  
+- [x] git add  
+- [x] git commit  
 - [ ] git push  
 - [ ] git pull  
   
@@ -412,7 +412,7 @@ Conseguir:
 - [ ] ler README  
 - [ ] assistir vídeos simples  
 - [ ] aprender vocabulário técnico  
-- [ ] usar ferramentas em inglês  
+- [x] usar ferramentas em inglês  
   
 ---
 
