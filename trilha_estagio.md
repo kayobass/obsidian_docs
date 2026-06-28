@@ -364,7 +364,7 @@ git pull
 - [x] git add  
 - [x] git commit  
 - [ ] git push  
-- [ ] git pull  
+- [x] git pull  
   
 ---  
   
