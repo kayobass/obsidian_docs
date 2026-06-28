@@ -363,7 +363,7 @@ git pull
   
 - [x] git add  
 - [x] git commit  
-- [ ] git push  
+- [x] git push  
 - [x] git pull  
   
 ---  
