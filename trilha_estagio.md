@@ -121,8 +121,8 @@ SUM
 AVG  
 ```  
   
-- [x] SELECT  
-- [x] WHERE  
+- [ ] SELECT  
+- [ ] WHERE  
 - [ ] ORDER BY  
 - [ ] GROUP BY  
 - [ ] COUNT  
