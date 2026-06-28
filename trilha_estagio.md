@@ -80,7 +80,7 @@ Aprender lógica de programação e Python de verdade.
   
 Manipulação de dados usando:  
   
-- [x] Listas  
+- [ ] Listas  
 - [x] Dicionários  
 - [x] Filtros  
 - [ ] Ordenação  
