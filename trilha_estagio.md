@@ -72,7 +72,7 @@ Aprender lógica de programação e Python de verdade.
 - [x] Tratamento de erros  
 - [x] Recursão básica  
 - [ ] Programação Orientada a Objetos (POO)  
-- [ ] Módulos  
+- [x] Módulos  
   
 ---  
   
@@ -83,8 +83,8 @@ Manipulação de dados usando:
 - [x] Listas  
 - [x] Dicionários  
 - [x] Filtros  
-- [ ] Ordenação  
-- [ ] Leitura de CSV  
+- [x] Ordenação  
+- [x] Leitura de CSV  
   
 ---
 
@@ -94,7 +94,7 @@ Manipulação de dados usando:
 - [x] Calculadora  
 - [ ] Agenda 
 - [ ] Sistema de notas  
-- [ ] Leitor de CSV 
+- [x] Leitor de CSV 
 - [x] Jogo de acertar paises com dicas
   
 ---  
