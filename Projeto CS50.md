@@ -12,4 +12,9 @@ Usando as bibliotecas:
 requests
 tabulate
 ```
- 
+
+Ideas de funções:
+- Formatar para padrão americano
+- Criar LIBRA -> BTC
+- Criar tabela
+- Get dados
