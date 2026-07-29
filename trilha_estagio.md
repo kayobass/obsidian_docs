@@ -71,7 +71,7 @@ Aprender lógica de programação e Python de verdade.
 - [x] Manipulação de arquivos  
 - [x] Tratamento de erros  
 - [x] Recursão básica  
-- [ ] Programação Orientada a Objetos (POO)  
+- [x] Programação Orientada a Objetos (POO)  
 - [x] Módulos  
   
 ---  
@@ -93,7 +93,7 @@ Manipulação de dados usando:
   
 - [x] Calculadora  
 - [ ] Agenda 
-- [ ] Sistema de notas  
+- [x] Sistema de flashcards 
 - [x] Leitor de CSV 
 - [x] Jogo de acertar paises com dicas
   
@@ -347,7 +347,7 @@ rm
   
 - [x] cd  
 - [x] ls  
-- [ ] mkdir  
+- [x] mkdir  
 - [ ] rm  
   
 ---  
@@ -402,7 +402,7 @@ Adicionar IA aplicada ao portfólio.
 Conseguir:  
   
 - [ ] ler documentação  
-- [ ] entender erros  
+- [x] entender erros  
 - [ ] pesquisar soluções  
   
 ---  
