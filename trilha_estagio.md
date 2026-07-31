@@ -92,7 +92,7 @@ Manipulação de dados usando:
 # 🧪 Projetos dessa fase  
   
 - [x] Calculadora  
-- [ ] Agenda 
+- [x] Agenda 
 - [x] Sistema de flashcards 
 - [x] Leitor de CSV 
 - [x] Jogo de acertar paises com dicas
