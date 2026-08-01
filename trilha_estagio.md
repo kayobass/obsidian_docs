@@ -122,7 +122,7 @@ AVG
 ```  
   
 - [x] SELECT  
-- [ ] WHERE  
+- [x] WHERE  
 - [ ] ORDER BY  
 - [ ] GROUP BY  
 - [ ] COUNT  
