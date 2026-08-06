@@ -123,7 +123,7 @@ AVG
   
 - [x] SELECT  
 - [x] WHERE  
-- [ ] ORDER BY  
+- [x] ORDER BY  
 - [ ] GROUP BY  
 - [ ] COUNT  
 - [ ] SUM  
@@ -134,14 +134,12 @@ AVG
 ```sql  
 JOIN  
 LEFT JOIN  
-INNER JOIN  
 HAVING  
 CTE  
 ```  
   
-- [ ] JOIN  
+- [x] JOIN  
 - [ ] LEFT JOIN  
-- [ ] INNER JOIN  
 - [ ] HAVING  
 - [ ] CTE  
   
@@ -150,8 +148,8 @@ CTE
 # 🧠 Modelagem Relacional  
   
 - [x] tabelas  
-- [ ] chave primária  
-- [ ] chave estrangeira  
+- [x] chave primária  
+- [x] chave estrangeira  
 - [ ] relacionamentos  
   
 ---  
