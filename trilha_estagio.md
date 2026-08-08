@@ -157,7 +157,7 @@ CTE
 # 🧪 Projetos  
   
 - [ ] Banco de alunos  
-- [ ] Sistema de vendas  
+- [ ] Mini Twitter
 - [ ] Relatórios de pedidos  
   
 ---  
