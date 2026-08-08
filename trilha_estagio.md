@@ -124,10 +124,10 @@ AVG
 - [x] SELECT  
 - [x] WHERE  
 - [x] ORDER BY  
-- [ ] GROUP BY  
-- [ ] COUNT  
-- [ ] SUM  
-- [ ] AVG  
+- [x] GROUP BY  
+- [x] COUNT  
+- [x] SUM  
+- [x] AVG  
   
 ## SQL Intermediário  
   
