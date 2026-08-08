@@ -387,7 +387,7 @@ Adicionar IA aplicada ao portfólio.
   
 ## Resumidor de texto com IA  
   
-- [ ] frontend simples  
+- [x] frontend simples  
 - [ ] API  
 - [ ] IA generativa  
   
