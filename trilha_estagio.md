@@ -139,7 +139,8 @@ CTE
 ```  
   
 - [x] JOIN  
-- [ ] LEFT JOIN  
+- [x] LEFT JOIN  
+- [x] RIGHT JOIN
 - [x] HAVING  
 - [ ] CTE  
   
