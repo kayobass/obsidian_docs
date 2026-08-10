@@ -140,7 +140,7 @@ CTE
   
 - [x] JOIN  
 - [ ] LEFT JOIN  
-- [ ] HAVING  
+- [x] HAVING  
 - [ ] CTE  
   
 ---  
