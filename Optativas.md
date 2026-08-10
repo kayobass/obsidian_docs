@@ -2,4 +2,4 @@
 - [ ] tÓPICOS ESPECIAIS EM INTELIGÊNCIA ARTIFICIAL - 60h (4cr)?
 - [ ] cOMPUTAÇÃO GRÁFICA - 60h (4cr)?
 - [ ] VISÃO COMPUTACIONAL - 60h (4cr)
-- [ ] 
+- [ ] COMPUTAÇÃO EM NUVEM - 60h (4cr)
