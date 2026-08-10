@@ -1,0 +1,5 @@
+- [ ] qUALIDADE DE SOFTWARE - 60h (4cr) ?
+- [ ] tÓPICOS ESPECIAIS EM INTELIGÊNCIA ARTIFICIAL - 60h (4cr)?
+- [ ] cOMPUTAÇÃO GRÁFICA - 60h (4cr)?
+- [ ] VISÃO COMPUTACIONAL - 60h (4cr)
+- [ ] 
