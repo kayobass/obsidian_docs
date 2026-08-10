@@ -156,8 +156,8 @@ CTE
   
 # 🧪 Projetos  
   
-- [ ] Banco de alunos  
-- [ ] Mini Twitter
+- [ ] Bloco de Notas
+- [x] Mini Twitter
 - [ ] Relatórios de pedidos  
   
 ---  
