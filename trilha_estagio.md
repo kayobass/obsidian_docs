@@ -151,7 +151,7 @@ CTE
 - [x] tabelas  
 - [x] chave primária  
 - [x] chave estrangeira  
-- [ ] relacionamentos  
+- [x] relacionamentos  
   
 ---  
   

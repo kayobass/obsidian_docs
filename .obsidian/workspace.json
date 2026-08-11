@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "trilha_estagio"
             }
-          },
-          {
-            "id": "8ee618bb79af6494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optativas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Optativas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +197,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8ee618bb79af6494",
+  "active": "e1bf87e822fcc155",
   "lastOpenFiles": [
-    "trilha_estagio.md",
     "Optativas.md",
+    "trilha_estagio.md",
     "Projeto CS50.md",
     "TESTE.md"
   ]
