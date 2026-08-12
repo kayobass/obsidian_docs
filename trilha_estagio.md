@@ -157,7 +157,7 @@ CTE
   
 # 🧪 Projetos  
   
-- [ ] Bloco de Notas
+- [x] Bloco de Notas
 - [x] Mini Twitter
 - [ ] Relatórios de pedidos  
   
