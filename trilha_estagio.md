@@ -159,7 +159,6 @@ CTE
   
 - [x] Bloco de Notas
 - [x] Mini Twitter
-- [ ] Relatórios de pedidos  
   
 ---  
   
@@ -249,16 +248,8 @@ Usar Python para análise e manipulação de dados.
   
 # 🧪 Projetos  
   
-## Projeto 1  
-  
 - [ ] Análise de vendas  
-  
-## Projeto 2  
-  
 - [ ] Análise de fraudes simples  
-  
-## Projeto 3  
-  
 - [ ] Análise de engajamento  
   
 ---  
