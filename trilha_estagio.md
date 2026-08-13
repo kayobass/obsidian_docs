@@ -172,7 +172,7 @@ Aprender análise visual e dashboards.
   
 # 📚 Excel  
   
-## Aprender:  
+## Excel:  
   
 - [ ] filtros  
 - [ ] PROCV / PROCX  
@@ -184,7 +184,7 @@ Aprender análise visual e dashboards.
   
 # 📚 Power BI  
   
-## Aprender:  
+## Power BI:  
   
 - [ ] importar dados  
 - [ ] limpar dados  
