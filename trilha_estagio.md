@@ -175,7 +175,7 @@ Aprender análise visual e dashboards.
 ## Excel:  
   
 - [x] filtros  
-- [ ] PROCV / PROCX  
+- [x] PROCV / PROCX  
 - [x] SOMASE  
 - [ ] gráficos  
 - [ ] tabelas dinâmicas  

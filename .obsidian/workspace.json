@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trilha_estagio.md",
+                "file": "Optativas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trilha_estagio"
+              "title": "Optativas"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "e1bf87e822fcc155",
   "lastOpenFiles": [
-    "Optativas.md",
     "trilha_estagio.md",
+    "Optativas.md",
     "Projeto CS50.md",
     "TESTE.md"
   ]
