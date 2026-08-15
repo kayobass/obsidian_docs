@@ -177,7 +177,7 @@ Aprender análise visual e dashboards.
 - [x] filtros  
 - [x] PROCV / PROCX  
 - [x] SOMASE  
-- [ ] gráficos  
+- [x] gráficos  
 - [ ] tabelas dinâmicas  
   
 ---  
