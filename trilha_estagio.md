@@ -186,8 +186,8 @@ Aprender análise visual e dashboards.
   
 ## Power BI:  
   
-- [ ] importar dados  
-- [ ] limpar dados  
+- [x] importar dados  
+- [x] limpar dados  
 - [ ] criar dashboards  
 - [ ] relacionamentos  
 - [ ] medidas simples  
