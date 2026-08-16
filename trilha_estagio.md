@@ -191,7 +191,7 @@ Aprender análise visual e dashboards.
 - [x] relacionamentos  
 - [x] medidas simples 
 - [x] indicadores
-- [ ] criar dashboards  
+- [x] criar dashboards  
 - [ ] visualizações  
   
 ---  
