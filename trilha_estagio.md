@@ -188,9 +188,10 @@ Aprender análise visual e dashboards.
   
 - [x] importar dados  
 - [x] limpar dados  
+- [x] relacionamentos  
+- [ ] medidas simples 
+- [x] indicadores
 - [ ] criar dashboards  
-- [ ] relacionamentos  
-- [ ] medidas simples  
 - [ ] visualizações  
   
 ---  
