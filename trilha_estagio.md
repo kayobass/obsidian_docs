@@ -192,7 +192,7 @@ Aprender análise visual e dashboards.
 - [x] medidas simples 
 - [x] indicadores
 - [x] criar dashboards  
-- [ ] visualizações  
+- [x] visualizações  
   
 ---  
   
