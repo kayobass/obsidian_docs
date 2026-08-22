@@ -190,7 +190,7 @@ Aprender análise visual e dashboards.
 - [x] limpar dados  
 - [x] relacionamentos  
 - [x] medidas simples 
-- [x] indicadores
+- [x] indicadores 
 - [x] criar dashboards  
 - [x] visualizações  
   
