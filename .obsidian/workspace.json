@@ -35,8 +35,7 @@
               "title": "english"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "55b188dc463bd25a",
+  "active": "e1bf87e822fcc155",
   "lastOpenFiles": [
-    "trilha_estagio.md",
     "english.md",
+    "trilha_estagio.md",
     "Optativas.md",
     "Projeto CS50.md",
     "TESTE.md"
