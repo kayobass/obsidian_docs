@@ -219,7 +219,7 @@ Usar Python para análise e manipulação de dados.
   
 ## Obrigatórias  
   
-- [ ] Pandas  
+- [x] Pandas  
 - [ ] Matplotlib  
   
 ## Depois  
@@ -230,7 +230,7 @@ Usar Python para análise e manipulação de dados.
   
 # 📚 Aprender no Pandas  
   
-- [ ] ler CSV  
+- [x] ler CSV  
 - [ ] filtrar dados  
 - [ ] agrupar  
 - [ ] calcular médias  
