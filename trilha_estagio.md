@@ -142,7 +142,7 @@ CTE
 - [x] LEFT JOIN  
 - [x] RIGHT JOIN
 - [x] HAVING  
-- [x] CTE  
+- [ ] CTE  
   
 ---  
   
@@ -190,9 +190,9 @@ Aprender análise visual e dashboards.
 - [x] limpar dados  
 - [x] relacionamentos  
 - [x] medidas simples 
-- [x] indicadores 
-- [x] criar dashboards  
-- [x] visualizações  
+- [ ] indicadores 
+- [ ] criar dashboards  
+- [ ] visualizações  
   
 ---  
   
@@ -232,8 +232,8 @@ Usar Python para análise e manipulação de dados.
   
 - [x] ler CSV  
 - [ ] filtrar dados  
-- [ ] agrupar  
-- [ ] calcular médias  
+- [x] agrupar  
+- [x] calcular médias  
 - [ ] limpeza de dados  
   
 ---  
@@ -251,7 +251,7 @@ Usar Python para análise e manipulação de dados.
   
 - [ ] Análise de vendas  
 - [ ] Análise de fraudes simples  
-- [ ] Análise de engajamento  
+- [x] Análise de engajamento  
   
 ---  
   
