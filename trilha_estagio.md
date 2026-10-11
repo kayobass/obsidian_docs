@@ -142,7 +142,7 @@ CTE
 - [x] LEFT JOIN  
 - [x] RIGHT JOIN
 - [x] HAVING  
-- [ ] CTE  
+- [x] CTE  
   
 ---  
   
@@ -220,7 +220,7 @@ Usar Python para análise e manipulação de dados.
 ## Obrigatórias  
   
 - [x] Pandas  
-- [ ] Matplotlib  
+- [x] Matplotlib  
   
 ## Depois  
   
@@ -231,18 +231,18 @@ Usar Python para análise e manipulação de dados.
 # 📚 Aprender no Pandas  
   
 - [x] ler CSV  
-- [ ] filtrar dados  
+- [x] filtrar dados  
 - [x] agrupar  
 - [x] calcular médias  
-- [ ] limpeza de dados  
+- [x] limpeza de dados  
   
 ---  
   
 # 📚 Aprender no Matplotlib  
   
-- [ ] gráficos simples  
-- [ ] barras  
-- [ ] linhas  
+- [x] gráficos simples  
+- [x] barras  
+- [x] linhas  
 - [ ] pizza  
   
 ---  
@@ -284,7 +284,7 @@ Extrair → Transformar → Carregar
 - [ ] automação  
 - [ ] leitura de arquivos  
 - [ ] integração entre sistemas  
-- [ ] PostgreSQL básico  
+- [x] PostgreSQL básico  
   
 ---  
   
