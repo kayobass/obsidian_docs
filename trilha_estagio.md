@@ -243,13 +243,13 @@ Usar Python para análise e manipulação de dados.
 - [x] gráficos simples  
 - [x] barras  
 - [x] linhas  
-- [ ] pizza  
+- [x] pizza  
   
 ---  
   
 # 🧪 Projetos  
   
-- [ ] Análise de vendas  
+- [x] Análise de vendas  
 - [ ] Análise de fraudes simples  
 - [x] Análise de engajamento  
   
